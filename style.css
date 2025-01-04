@@ -125,6 +125,7 @@ h3 {
   box-shadow: 0 0 15px rgba(115, 51, 62, 0.8);
 }
 .preparedBy {
+  color : #254441;
   font-size: 22px;
   position: absolute;
   top: 93%;

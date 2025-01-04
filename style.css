@@ -98,20 +98,23 @@ h3 {
 
 .box1 {
   background-color: #e74c3c;
+  border-top-left-radius: 90%;
 }
 
 .box2 {
   background-color: #2ecc71;
+  border-top-right-radius: 90%;
 }
 
 .box3 {
   background-color: #f39c12;
+  border-bottom-left-radius: 90%;
 }
 
 .box4 {
   background-color: #3498db;
+  border-bottom-right-radius: 90%;
 }
-
 .flash {
   background-color: #146837 !important;
   box-shadow: 0 0 15px rgba(40, 172, 130, 0.8);
